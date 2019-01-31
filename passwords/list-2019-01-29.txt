@@ -329,6 +329,7 @@ user:nagios passwd:88888888
 user:nagios passwd:abc1234
 user:nagios passwd:asd123
 user:nagios passwd:asdfghjkl
+user:nagios passwd:nagiosadmin
 user:nagios passwd:password
 user:nagios passwd:PASSWORD
 user:nagios passwd:password123
